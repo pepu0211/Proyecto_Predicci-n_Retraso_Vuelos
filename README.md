@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="¿Llegará a tiempo? Predicción temprana de vuelos retrasados, cancelados o desviados" width="100%">
+  <img src="¿Llegará a tiempo Predicción de retrasos de vuelos - slide 1.png" alt="¿Llegará a tiempo? Predicción temprana de vuelos retrasados, cancelados o desviados" width="100%">
 </p>
 
 # ¿Llegará a tiempo? Predicción temprana de retrasos de vuelos
