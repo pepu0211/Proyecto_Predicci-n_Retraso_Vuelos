@@ -1,8 +1,8 @@
+# ¿Llegará a tiempo? Predicción temprana de retrasos de vuelos
+
 <p align="center">
   <img src="¿Llegará a tiempo Predicción de retrasos de vuelos - slide 1.png" alt="¿Llegará a tiempo? Predicción temprana de vuelos retrasados, cancelados o desviados" width="100%">
 </p>
-
-# ¿Llegará a tiempo? Predicción temprana de retrasos de vuelos
 
 Proyecto del curso **Inteligencia Artificial 1**. Un sistema de alerta temprana que estima, **antes del despegue**, el riesgo de que un vuelo doméstico de EE. UU. llegue con 15 minutos o más de retraso, se cancele o se desvíe. Con esa alerta, una aerolínea podría preparar tripulaciones de reserva, avisar a los pasajeros con conexiones o reforzar el personal en tierra.
 
