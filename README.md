@@ -77,16 +77,6 @@ Solo se usan como entrada las columnas conocidas **antes del vuelo**. Las que se
 
 La mejora final nace del aprendizaje no supervisado: DBSCAN mostró que los días malos vienen en racha, así que se agregó la tasa de retraso del día anterior (del país, de la aerolínea y del aeropuerto). En ese caso la alerta se emite la noche anterior al vuelo.
 
-## Estructura del repositorio
-
-```
-├── assets/
-│   └── banner.png
-├── notebooks/
-│   └── proyecto_retrasos_vuelos.ipynb
-├── requirements.txt
-└── README.md
-```
 
 El notebook descarga el dataset directamente desde Kaggle con `kagglehub`, así que no hace falta descargarlo a mano. Está pensado para ejecutarse en Google Colab.
 
