@@ -67,19 +67,6 @@ Solo se usan como entrada las columnas conocidas **antes del vuelo**. Las que se
 | DBSCAN | Detectar días atípicos (pandemia, tormentas) como ruido |
 | PCA y t-SNE | Visualizar aeropuertos y vuelos en 2D, y probar la reducción de dimensión antes de clasificar |
 
-**Resultado en test (vuelos futuros, alertando el 35% de los vuelos)**
-
-| Modelo | F2 | Recall | Precision |
-|---|---|---|---|
-| Alertar al azar | 0.324 | 0.352 | 0.246 |
-| Random Forest con 12 atributos seleccionados | 0.474 | 0.520 | 0.351 |
-| **Random Forest + atributos del día anterior** | **0.506** | **0.553** | **0.377** |
-
-La mejora final nace del aprendizaje no supervisado: DBSCAN mostró que los días malos vienen en racha, así que se agregó la tasa de retraso del día anterior (del país, de la aerolínea y del aeropuerto). En ese caso la alerta se emite la noche anterior al vuelo.
-
-
-El notebook descarga el dataset directamente desde Kaggle con `kagglehub`, así que no hace falta descargarlo a mano. Está pensado para ejecutarse en Google Colab.
-
 ## Enlaces
 
 | Recurso | Enlace |
