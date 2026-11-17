@@ -72,7 +72,7 @@ Solo se usan como entrada las columnas conocidas **antes del vuelo**. Las que se
 | Recurso | Enlace |
 |---|---|
 | Dataset en Kaggle | [Flight Delay and Cancellation Dataset (2019-2023)](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023) |
-| Presentación del proyecto | [Ver presentación](ENLACE_DE_LA_PRESENTACION) |
+| Presentación del proyecto | [Ver presentación](https://github.com/pepu0211/Proyecto_Predicci-n_Retraso_Vuelos/blob/2672309f097d0e11dce0f2b4feadb5e705b29a94/%C2%BFLlegar%C3%A1%20a%20tiempo%20Predicci%C3%B3n%20de%20retrasos%20de%20vuelos.pdf) |
 | Video del proyecto en YouTube | [Ver video](https://youtu.be/TkXHFfq9WPM) |
 | Colab del Proyecto | [Ver Colab](https://drive.google.com/file/d/17gJ65X9YAWOupuYh6FglF5rNjdwM9oAd/view?usp=sharing) |
 
