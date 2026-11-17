@@ -73,6 +73,6 @@ Solo se usan como entrada las columnas conocidas **antes del vuelo**. Las que se
 |---|---|
 | Dataset en Kaggle | [Flight Delay and Cancellation Dataset (2019-2023)](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023) |
 | Presentación del proyecto | [Ver presentación](ENLACE_DE_LA_PRESENTACION) |
-| Video del proyecto en YouTube | [Ver video](ENLACE_DE_YOUTUBE) |
+| Video del proyecto en YouTube | [Ver video](https://youtu.be/TkXHFfq9WPM) |
 | Colab del Proyecto | [Ver Colab](https://drive.google.com/file/d/17gJ65X9YAWOupuYh6FglF5rNjdwM9oAd/view?usp=sharing) |
 
